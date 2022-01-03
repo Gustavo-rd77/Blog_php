@@ -1,6 +1,6 @@
 # Blog_php
 Blog de videojuegos en PHP
--Permite agregar nuevas entradas ademas de tambien poder agregar nuevas categorias asi como poder editar estas, cuenta con un apartado de registro y otra para loguearse y una barra de busqueda.
+-Permite agregar nuevas entradas además de también poder agregar nuevas categorías así como poder editar estas, cuenta con un apartado de registro y otra para loguearse y una barra de busqueda.
 Para esto se debe de crear una base de datos llamada "blog_proyecto" y poder importar las tableas necesarias que se encuentran en la carpeta db.
 
 
